@@ -40,7 +40,7 @@ Para executar este projeto em sua máquina local, você precisará ter:
 ## Configuração do Banco de Dados
 O projeto utiliza um banco de dados MySQL chamado `bdvendas`. Você pode fazer o download do script SQL para criação do banco e das tabelas através do link abaixo:
 
-[**Download do Script SQL**](https://drive.google.com/file/d/1D43vHnK7C5bxzZw6VLhhhvwH7KI90gH6/view?usp=sharing)
+[**Download do Script SQL**](https://drive.google.com/file/d/1D43vHnK7C5bxvZw6VLhhhvwH7KI90gH6/view?usp=sharing)
 
 Após o download, execute o script no seu ambiente MySQL para configurar o banco de dados.
 
